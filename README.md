@@ -1,0 +1,2 @@
+# journal
+new entry
