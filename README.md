@@ -11,3 +11,5 @@ finishing the HTML part in the free coding camp
 workig on my classes with angela yu on udemy
 
 looking into python and continuing with udemy
+
+working on my udemy i have been without internet so im gonna try to catch up
